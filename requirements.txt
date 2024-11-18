@@ -1,0 +1,8 @@
+sklearn
+pandas
+numpy
+nltk
+ipywidgets
+praw
+urllib
+xmltodict
